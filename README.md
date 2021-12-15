@@ -16,7 +16,7 @@ pytest -v -s --html="report.html"
 - Download and install chromedriver and geckodriver
 - Python libraries used are selenium and pytest
 - Clone this repo to download the frameworks using below command
-- `git clone https://github.com/bunnycodec/py_selenium.git`
+- `git clone https://github.com/bunnycodec/pySelenium_framework_1.git`
 
 ## Python Dependencies
 
